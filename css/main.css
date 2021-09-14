@@ -108,7 +108,7 @@ html {
 }
 
 
-/*code slide*/
+/*slide*/
 
       .animate-item {
             transition: all .3s;
@@ -324,7 +324,7 @@ html {
             }
         }
 
-/*code slide*/
+/*slide*/
 
 /*maincontent*/
 
@@ -397,7 +397,9 @@ h1{
 	position: absolute;
 	z-index: 20;
 }
-
+html{
+	scroll-behavior: smooth;
+}
 /*maincontent*/
 /*backtotop*/
 
