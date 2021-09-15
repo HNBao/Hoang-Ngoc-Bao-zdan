@@ -64,3 +64,4 @@ document.addEventListener("mouseout", disableCardAnimate);
         window.onload = changeActiveBg();
 
 //slide
+
