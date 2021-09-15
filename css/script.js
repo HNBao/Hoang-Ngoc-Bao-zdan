@@ -85,3 +85,15 @@ btn.on('click', function(e) {
 //backtotop
 
 
+//slide nav
+function openNav() {
+  document.getElementById("mySidenav").style.width = "100%";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+
+//slide nav
+
+
