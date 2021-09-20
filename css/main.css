@@ -522,6 +522,10 @@ html{
 }
 .ava{
 	height: 100%;
+	width: 28%;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
 }
 .ava img:hover{
 	  animation: shake 0.5s;
